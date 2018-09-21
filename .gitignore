@@ -2,3 +2,6 @@
 .project
 .class
 .exe
+.jar
+.zip
+.gz
