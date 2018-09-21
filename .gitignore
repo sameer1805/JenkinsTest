@@ -2,6 +2,7 @@
 .project
 .class
 .exe
+.gyt
 .jar
 .zip
 .gz
